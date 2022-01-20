@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Frontend",
+    "\\Frontend\\src",
+    "\\WebAPI",
+    "\\WebAPI\\Data",
+    "\\WebAPI\\Dtos",
+    "\\WebAPI\\Errors",
+    "\\WebAPI\\Extensions",
+    "\\WebAPI\\Migrations",
+    "\\WebAPI\\Properties"
+  ],
+  "SelectedNode": "\\Frontend\\tsconfig.json",
+  "PreviewInSolutionExplorer": false
+}
